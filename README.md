@@ -8,3 +8,4 @@ No guarantee the code works either.
 
 // list of projects<br/>
 <b>npp</b> - (C++) named pipe protocol, just a simple server/client setup using Windows named pipes
+<b>tvm</b> - (C++) toy virtual machine, stupid simple mark and sweep garbage collector, attempt to process bytecode
