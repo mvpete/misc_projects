@@ -1,6 +1,9 @@
 misc_projects
 =============
 
-miscellaneous projects by MVPETE, mostly examples and things I've done for fun. No warranty whatsoever. No guarantee the code works either
+miscellaneous projects by MVPETE, a random collection of sample projects, failures to launch and other fun stuff. 
+No warranty whatsoever. No guarantee the code works either.
 
-npp - named pipe protocol, just a simple server/client setup using Windows named pipes
+
+// list of projects and languages
+npp - (C++) named pipe protocol, just a simple server/client setup using Windows named pipes
